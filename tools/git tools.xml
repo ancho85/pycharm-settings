@@ -1,0 +1,23 @@
+<toolSet name="git tools">
+  <tool name="git patch gen by branchName" description="git patch generator" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\Develop\desarrollo\python\ancho\workspace\patchGenByBranch.bat" />
+      <option name="PARAMETERS" value="$FileDir$ $FileDirName$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+  <tool name="git patch generator with prompt" description="git patch generator" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd.exe" />
+      <option name="PARAMETERS" value="/c &quot;git.exe diff --relative --no-prefix master $FileDir$\ &gt; $FileDir$\$FileDirName$-$Prompt$.patch&quot;" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+  <tool name="check $FileName$ changes in branches" description="checks if there are changes in other branches related to the current file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="e:\Develop\desarrollo\python\ancho\workspace\fileChangeInBranches.bat " />
+      <option name="PARAMETERS" value="$ProjectFileDir$ $UnixSeparators($FilePathRelativeToProjectRoot$)$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

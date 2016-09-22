@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="run test under cursor">
+      <action id="CopyReference" />
+      <action id="RemoteTool_External Tools_remote startServerDirect single test" />
+    </macro>
+  </component>
+</application>

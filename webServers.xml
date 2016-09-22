@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61fac9c1-199f-48d4-a8ff-f963a3f8d6d7" name="157" url="http://192.168.1.157">
+        <fileTransfer host="192.168.1.157" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAsHfcadbgLMiFuK13lYsviBPus25F40Q2fep7EIU6yzL0P1e+OboJaNJepYYMn0zEF2CGnwJftvmmXsYIPMO7pcSoFOqCpmKThsgAuNvayu89fm3cloOWige47QEkmZ6WZ0UJdfMROxdoDbtLcQU7/q+YSF7fcU/GdBZh8+HIqYONTAnk6zhkmv+mPP+D96No3VdifG+1SbBHSaMZOxDNr7wL+z75sp7DVAcVpRku0PqRP4Z8Ewj2lp9kVmzT24R52A==</data>
+  </component>
+</application>

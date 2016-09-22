@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<routineuserinput>
+    <routinerecord>
+        <field name="SerNr" type="integer"/>
+    </routinerecord>
+    <routinewindow name="${NAME}RoutineWindow" title="$Title">
+        <integer fieldname="SerNr" label="Nro"/>
+    </routinewindow>
+</routineuserinput>

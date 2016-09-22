@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="OO py Record.py" reformat="true" live-template-enabled="true" />
+      <template name="OO py Window.py" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>

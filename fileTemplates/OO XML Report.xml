@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<reportuserinput>
+    <reportrecord>
+        <field name="SerNr" type="integer"/>
+    </reportrecord>
+    <reportwindow name="${NAME}ReportWindow" title="$Title">
+        <integer fieldname="SerNr" label="Nro"/>
+    </reportwindow>
+</reportuserinput>

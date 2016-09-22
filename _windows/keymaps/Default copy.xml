@@ -1,0 +1,45 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="Macro.run test under cursor">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="RemoteTool_External Tools_remote startServer ALL tests">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 1" />
+  </action>
+  <action id="RemoteTool_External Tools_remote startServerDirect $/FileDirRelativeToProjectRoot$ directory test">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 9" />
+  </action>
+  <action id="RemoteTool_External Tools_remote startServerDirect $FileName$ test">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
+  </action>
+  <action id="RemoteTool_External Tools_remote startServerDirect single test">
+    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+</keymap>
