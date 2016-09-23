@@ -1,0 +1,17 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Macro.run test under cursor">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="RemoteTool_External Tools_remote startServer ALL tests">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 1" />
+  </action>
+  <action id="RemoteTool_External Tools_remote startServerDirect $/FileDirRelativeToProjectRoot$ directory test">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 9" />
+  </action>
+  <action id="RemoteTool_External Tools_remote startServerDirect $FileName$ test">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
+  </action>
+</keymap>
