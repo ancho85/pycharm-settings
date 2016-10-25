@@ -10,10 +10,9 @@
         <parameter-pattern value="$\{[^$\{\}]*\}" />
         <parameter-pattern value="$\w+$" />
         <parameter-pattern value="#(\w+)#" scope="XML" predefined="true" />
-        <parameter-pattern value=".*\s+FROM\s+\[.+\]" scope="MySQL" />
-        <parameter-pattern value="\?(\d+)" in-scripts="false" in-literals="false" />
-        <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="false" in-literals="false" />
-        <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="false" in-literals="false" />
+        <parameter-pattern value="\?(\d+)" in-scripts="false" in-literals="false" predefined="true" />
+        <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="false" in-literals="false" predefined="true" />
+        <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="false" in-literals="false" predefined="true" />
         <parameter-pattern value="\$(\w+)\$" in-scripts="false" in-literals="false" scope="*,-PostgreSQL" predefined="true" />
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-scripts="false" in-literals="false" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
         <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-scripts="false" in-literals="false" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
