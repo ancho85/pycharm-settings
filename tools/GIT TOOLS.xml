@@ -1,4 +1,4 @@
-<toolSet name="git tools">
+<toolSet name="GIT TOOLS">
   <tool name="git patch gen by branchName" description="git patch generator" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="E:\Develop\desarrollo\python\ancho\workspace\patchGenByBranch.bat" />
