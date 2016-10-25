@@ -14,4 +14,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="wenco" value="# encoding: ISO8859-1" description="iso 8859-1 encoding" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
