@@ -1,4 +1,19 @@
 <templateSet group="Python">
+  <template name="queryp" value="from GeneralPyTools import queryParser&#10;queryParser(query.sql, writeToFile=True, filename=&quot;query%s.sql&quot; % &quot;&quot;)" description="query parser" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="writef" value="f = file(&quot;newfile.txt&quot;,&quot;w&quot;)&#10;f.write()&#10;f.close()" description="write to file" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="wdebug" value="log(&quot;DEBUGGING, WAITTING ATTACHMENT&quot;)&#10;import rpdb2&#10;rpdb2.start_embedded_debugger(&quot;123456&quot;, fAllowRemote=True)" description="debug with winpdb" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
   <template name="wenco" value="# encoding: ISO8859-1" description="spanish encoding" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
