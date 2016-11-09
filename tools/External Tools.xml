@@ -8,15 +8,8 @@
   </tool>
   <tool name="PyLint" description="Python Static Code Check" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="python.exe" />
-      <option name="PARAMETERS" value="c:\Python26\Lib\site-packages\pylint-1.0.0-py2.6.egg\pylint\lint.py --reports=n --msg-template={path}:{line}:{msg_id}:{msg} --load-plugins Playero --rcfile=e:/Develop/desarrollo/python/other/pylint-playero-plugin\config\.pylintrc --disable=C0304,C0103,W0512,C0301,W0614,W0401,W0403,C0321,W0511,W0142,W0141,R0913,R0903,W0212,W0312,C0111,C0103,W0201,R0904,W0622,C0303 $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="PyLint PyCharm" description="Python Static Code Check" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="python.exe" />
-      <option name="PARAMETERS" value="e:\Develop\desarrollo\python\other\pylint-pycharm\pylint-pycharm.py --reports=n --load-plugins=Playero --rcfile=e:/Develop/desarrollo/python/other/pylint-playero-plugin\config\.pylintrc --disable=C0304,C0103,W0512,C0301,W0614,W0401,W0403,C0321,W0511,W0142,W0141,R0913,R0903,W0212,W0312,C0111,C0103,W0201,R0904,W0622,C0303 $FilePath$" />
+      <option name="COMMAND" value="pylint.exe" />
+      <option name="PARAMETERS" value="--reports=n --msg-template={path}:{line}:{msg_id}:{msg} --load-plugins Playero --rcfile=e:/Develop/desarrollo/python/other/pylint-playero-plugin\config\.pylintrc --disable=C0304,C0103,W0512,C0301,W0614,W0401,W0403,C0321,W0511,W0142,W0141,R0913,R0903,W0212,W0312,C0111,C0103,W0201,R0904,W0622,C0303 $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
