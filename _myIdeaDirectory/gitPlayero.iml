@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-891257481">
+      <sourceFolder url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-891257481" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/base/records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/base/reports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/base/routines" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/base/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/base/tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/base/windows" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/standard/documents" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/standard/records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/standard/reports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/standard/routines" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/standard/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/standard/tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/standard/windows" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/python24/Lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/python24/Lib/site-packages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/python24/Lib/site-packages/windows" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/python24/Lib/site-packages/windows/win32/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/python24/Lib/site-packages/windows/win32com" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/python24/Lib/site-packages/windows/lineprofiler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python/python24/Lib/site-packages/coverage" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/StdPy/documents" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/StdPy/records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/StdPy/reports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/StdPy/tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/StdPy/routines" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/StdPy/windows" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/StdPy/images" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/StdPy/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/StdPy/languages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/PayRollPy/tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/PayRollPy/documents" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/PayRollPy/reports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/PayRollPy/windows" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/PayRollPy/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/PayRollPy/records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/PayRollPy/languages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/PayRollPy/routines" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/GasStation/records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/GasStation/routines" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/GasStation/reports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/GasStation/windows" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/GasStation/languages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/GasStation/documents" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/GasStation/tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/Flota/documents" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/Flota/windows" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/Flota/languages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/Flota/routines" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/Flota/records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/Flota/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/Flota/reports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra/Flota/tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/languages" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../other/pylint-playero-plugin/corepy/embedded">
+      <sourceFolder url="file://$MODULE_DIR$/../../../other/pylint-playero-plugin/corepy/embedded" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82f73f1d-ce0c-4eb0-8547-a1723d9873af" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extra/PayRollPy/routines/GenSalaryPayment.py" afterPath="$PROJECT_DIR$/extra/PayRollPy/routines/GenSalaryPayment.py" />
+    </list>
+    <ignored path="gitPlayero.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/gitPlayero$Unittests_in_PlayeroTestCase__1_.coverage" NAME="Unittests in PlayeroTestCase (1) Coverage Results" MODIFIED="1472846406466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/gitPlayero$Unittests_in_PlayeroTestCase.coverage" NAME="Unittests in PlayeroTestCase Coverage Results" MODIFIED="1472846362870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/gitPlayero$All_tests_in_Playero.coverage" NAME="All tests in remote Playero Coverage Results" MODIFIED="1466025649342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/opt/playero" />
+    <SUITE FILE_PATH="coverage/gitPlayero$remotePlayeroTest.coverage" NAME="remotePlayeroTest Coverage Results" MODIFIED="1466024842981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/gitPlayero$SyncTables.coverage" NAME="SyncTables Coverage Results" MODIFIED="1480516101447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extra/StdPy/routines" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="gitPlayero" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="startTestDirect.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/startTestDirect.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="voucher.txt" pinned="true" current-in-tab="false">
+        <entry file="file://E:/Documentos/localstuff/voucher.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenSalaryPayment.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/extra/PayRollPy/routines/GenSalaryPayment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="460" column="24" lean-forward="true" selection-start-line="460" selection-start-column="24" selection-end-line="460" selection-end-column="24" />
+              <folding>
+                <element signature="e#22#46#0" expanded="true" />
+                <element signature="e#8213#8901#0" expanded="false" />
+                <marker date="1480951879380" expanded="true" signature="46838:46869" ph="SELECT SerNr... SalaryPayment" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Report" />
+        <option value="HTML File" />
+        <option value="XML Routine" />
+        <option value="XML Report" />
+        <option value="XML Record" />
+        <option value="OO py Window" />
+        <option value="OO XML Record" />
+        <option value="OO py Record" />
+        <option value="OO py Routine" />
+        <option value="OO XML Routine" />
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>os.</find>
+      <find>format</find>
+      <find>fillIt</find>
+      <find>hwnd</find>
+      <find>modules</find>
+      <find>fillSearchData</find>
+      <find>dataTypeDic</find>
+      <find>indexDic</find>
+      <find>dataF</find>
+      <find>class_instance</find>
+      <find>threading</find>
+      <find>self.text = str(self.list_data[sel])</find>
+      <find>list_data</find>
+      <find>TypeError</find>
+      <find>centre</find>
+      <find>AdditionalFlag</find>
+      <find>def doEmpl</find>
+      <find>DEBUGGING</find>
+      <find>Marcado</find>
+      <find>log</find>
+      <find>menor a</find>
+      <find>debug</find>
+      <find>quitFired</find>
+      <find>recordDic</find>
+      <find>sp</find>
+      <find>self.specs.</find>
+      <find>sp.</find>
+      <find>self.LALALA.</find>
+      <find>self.self</find>
+      <find>def doPay</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>TestSalaryPayment</replace>
+      <replace>/</replace>
+      <replace>mods</replace>
+      <replace>self.sp</replace>
+      <replace>self.LALALA.</replace>
+      <replace>self.sp.</replace>
+      <replace>self.specs.</replace>
+      <replace>self</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="_payrollpy_exec_replacement" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/extra/PayRollPy/records/JobMovement.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/records/PendingVacations.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/tests/test_salary_payment.py" />
+        <option value="$PROJECT_DIR$/extra/GasStation/records/Invoice.py" />
+        <option value="$PROJECT_DIR$/core/PlayeroTestCase.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/tests/test_gen_salary_payment_by_hour.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/records/Workers.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/tests/test_gen_salary_payment_by_journal.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/tests/test_salary_payment_currency.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/tests/test_salary_payment_receipt_number.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/tests/test_perfect_attendance.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/records/EmployeeMovement.py" />
+        <option value="$PROJECT_DIR$/base/tests/mocked_records.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/records/UnworkedTime.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/records/SalaryPayment.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/tests/test_gen_salary_payment_by_month.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/tests/test_gen_clockmachine_worked_time.py" />
+        <option value="$PROJECT_DIR$/core/modulesIndex.py" />
+        <option value="$PROJECT_DIR$/python/python24/Lib/site-packages/pydevd/__init__.py" />
+        <option value="$PROJECT_DIR$/python/python24/Lib/site-packages/windows/pydevd/__init__.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/tests/test_gen_salary_payment.py" />
+        <option value="$PROJECT_DIR$/python/python24/Lib/site-packages/pydevd-0.0.6/_pydevd_bundle/pydevd_constants.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/interface/SalaryPaymentFormReport.reportwindow.xml" />
+        <option value="$PROJECT_DIR$/extra/StdPy/tools/RangeFilters.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/tools/SQLQueryTools.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/reports/SalaryPaymentFormReport.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/tests/test_invalid_reason.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/tests/input_xmls/TransactionLogAudit.txt" />
+        <option value="$PROJECT_DIR$/extra/StdPy/interface/TransactionLogAudit.reportwindow.xml" />
+        <option value="$PROJECT_DIR$/extra/StdPy/tools/GeneralPyTools.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/reports/TransactionLogAudit.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/python-skeletons/win32gui.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/interface/SyncTables.routinewindow.xml" />
+        <option value="$PROJECT_DIR$/extra/StdPy/routines/SyncTablesNoGUI.py" />
+        <option value="$PROJECT_DIR$/core/database/mysql/MySQL_DBSynchronizer.py" />
+        <option value="$PROJECT_DIR$/core/database/DBSynchronizer.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/tools/DBStructureTools.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/routines/SyncTables.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/tools/RoutineTools.py" />
+        <option value="$PROJECT_DIR$/../../../other/pylint-playero-plugin/corepy/embedded/Embedded_Routine.py" />
+        <option value="$PROJECT_DIR$/extra/Vaccination/reports/VaccinationPeriodList.py" />
+        <option value="$PROJECT_DIR$/standard/windows/UserWindow.py" />
+        <option value="$PROJECT_DIR$/core/functions.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/windows/Window.py" />
+        <option value="$PROJECT_DIR$/extra/StdPy/records/User.py" />
+        <option value="$PROJECT_DIR$/core/searchTool.py" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/interface/SalaryPaymentsList.reportwindow.xml" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/reports/SalaryPaymentsList.py" />
+        <option value="E:/Documentos/localstuff/voucher.txt" />
+        <option value="$PROJECT_DIR$/extra/PayRollPy/routines/GenSalaryPayment.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Reduced Tree" pattern="!file[gitPlayero]:*.dll&amp;&amp;!file[gitPlayero]:*.DLL&amp;&amp;!file[gitPlayero]:.gitsvnattributes//*&amp;&amp;!file[gitPlayero]:7-Zip//*&amp;&amp;!file[gitPlayero]:backups//*&amp;&amp;!file[gitPlayero]:bin//*&amp;&amp;!file[gitPlayero]:Demo//*&amp;&amp;!file[gitPlayero]:erv//*&amp;&amp;!file[gitPlayero]:help//*&amp;&amp;!file[gitPlayero]:images//*&amp;&amp;!file[gitPlayero]:import//*&amp;&amp;!file[gitPlayero]:lib//*&amp;&amp;!file[gitPlayero]:skins//*&amp;&amp;!file[gitPlayero]:svnclient//*&amp;&amp;!file[gitPlayero]:web//*&amp;&amp;!file[gitPlayero]:extra/Agro//*&amp;&amp;!file[gitPlayero]:extra/Courier//*&amp;&amp;!file[gitPlayero]:extra/Courses//*&amp;&amp;!file[gitPlayero]:extra/Dosimeter//*&amp;&amp;!file[gitPlayero]:extra/Education//*&amp;&amp;!file[gitPlayero]:extra/Farma//*&amp;&amp;!file[gitPlayero]:extra/Guard//*&amp;&amp;!file[gitPlayero]:extra/Hotel//*&amp;&amp;!file[gitPlayero]:extra/Inbound//*&amp;&amp;!file[gitPlayero]:extra/ISO9000//*&amp;&amp;!file[gitPlayero]:extra/Loan//*&amp;&amp;!file[gitPlayero]:extra/PayRoll//*&amp;&amp;!file[gitPlayero]:extra/PBX//*&amp;&amp;!file[gitPlayero]:extra/Plant//*&amp;&amp;!file[gitPlayero]:extra/Production//*&amp;&amp;!file[gitPlayero]:extra/Project//*&amp;&amp;!file[gitPlayero]:extra/RealEstate//*&amp;&amp;!file[gitPlayero]:extra/Rental//*&amp;&amp;!file[gitPlayero]:extra/Resort//*&amp;&amp;!file[gitPlayero]:extra/Retail//*&amp;&amp;!file[gitPlayero]:extra/Security//*&amp;&amp;!file[gitPlayero]:extra/Trust//*&amp;&amp;!file[gitPlayero]:extra/Winery//*&amp;&amp;!file[gitPlayero]:extra/TravelAgent//*&amp;&amp;!file[gitPlayero]:extra/Billboard//*" />
+    <scope name="Vaccination" pattern="file[gitPlayero]:base//*||file[gitPlayero]:core//*||file[gitPlayero]:languages//*||file[gitPlayero]:python//*||file[gitPlayero]:standard//*||file[gitPlayero]:extra/CustomerFidelity//*||file[gitPlayero]:extra/Flota//*||file[gitPlayero]:extra/GasStation//*||file[gitPlayero]:extra/Develop//*||file[gitPlayero]:extra/PayRollPy//*||file[gitPlayero]:extra/Vaccination//*||file[gitPlayero]:extra/StdPy//*||file:__init__.py||file:ButtonArea.py||file:ClientServerTools.py||file:ComPort.py||file:CThread.py||file:Embedded_ButtonObj.py||file:Embedded_Document.py||file:Embedded_Field.py||file:Embedded_ListView.py||file:Embedded_ListViewItem.py||file:Embedded_OpenOrange.py||file:Embedded_Record.py||file:Embedded_Report.py||file:Embedded_Routine.py||file:Embedded_ScrollArea.py||file:Embedded_Thread.py||file:Embedded_TreeWidget.py||file:Embedded_Window.py||file:Field.py||file:FieldDef.py||file:globalfunctions.py||file:IndexDef.py||file:ProtocolInterface.py||file:Query.py||file:RecordDef.py||file:SettingsFile.py||file:XMLParser.py||file[gitPlayero]:settings/*||file:.gitattributes||file:.gitignore||file:force.sync||file:inicializar.bat||file:inicializar.sh||file:OpenOrange-Console.bat||file:OpenOrange.exe||file:OpenOrange.exe.log||file:OpenOrange.sh||file:pri.bat||file:Printer.bat||file:priRemote.bat||file:seteoLibrary.sh||file:sforcelogin.txt||file:test.py||file:version.txt||file:wc_info.tmp||file:extra/__init__.py" />
+    <scope name="Petrobras/LUA" pattern="file[gitPlayero]:base//*||file[gitPlayero]:core//*||file[gitPlayero]:languages//*||file[gitPlayero]:python//*||file[gitPlayero]:standard//*||file[gitPlayero]:extra/Flota//*||file[gitPlayero]:extra/GasStation//*||file[gitPlayero]:extra/Develop//*||file[gitPlayero]:extra/PayRollPy//*||file[gitPlayero]:extra/Vaccination//*||file[gitPlayero]:extra/StdPy//*||file:__init__.py||file:ButtonArea.py||file:ClientServerTools.py||file:ComPort.py||file:CThread.py||file:Embedded_ButtonObj.py||file:Embedded_Document.py||file:Embedded_Field.py||file:Embedded_ListView.py||file:Embedded_ListViewItem.py||file:Embedded_OpenOrange.py||file:Embedded_Record.py||file:Embedded_Report.py||file:Embedded_Routine.py||file:Embedded_ScrollArea.py||file:Embedded_Thread.py||file:Embedded_TreeWidget.py||file:Embedded_Window.py||file:Field.py||file:FieldDef.py||file:globalfunctions.py||file:IndexDef.py||file:ProtocolInterface.py||file:Query.py||file:RecordDef.py||file:SettingsFile.py||file:XMLParser.py||file[gitPlayero]:settings/*||file:.gitattributes||file:.gitignore||file:force.sync||file:inicializar.bat||file:inicializar.sh||file:OpenOrange-Console.bat||file:OpenOrange.exe||file:OpenOrange.exe.log||file:OpenOrange.sh||file:pri.bat||file:Printer.bat||file:priRemote.bat||file:seteoLibrary.sh||file:sforcelogin.txt||file:test.py||file:version.txt||file:wc_info.tmp||file[gitPlayero]:extra/PBRS//*||file:extra/__init__.py" />
+    <scope name="Basic" pattern="file[gitPlayero]:base//*||file[gitPlayero]:core//*||file[gitPlayero]:languages//*||file[gitPlayero]:python//*||file[gitPlayero]:standard//*||file[gitPlayero]:extra/Flota//*||file[gitPlayero]:extra/GasStation//*||file[gitPlayero]:extra/Develop//*||file[gitPlayero]:extra/PayRollPy//*||file[gitPlayero]:extra/StdPy//*||file:__init__.py||file:ButtonArea.py||file:ClientServerTools.py||file:ComPort.py||file:CThread.py||file:Embedded_ButtonObj.py||file:Embedded_Document.py||file:Embedded_Field.py||file:Embedded_ListView.py||file:Embedded_ListViewItem.py||file:Embedded_OpenOrange.py||file:Embedded_Record.py||file:Embedded_Report.py||file:Embedded_Routine.py||file:Embedded_ScrollArea.py||file:Embedded_Thread.py||file:Embedded_TreeWidget.py||file:Embedded_Window.py||file:Field.py||file:FieldDef.py||file:globalfunctions.py||file:IndexDef.py||file:ProtocolInterface.py||file:Query.py||file:RecordDef.py||file:SettingsFile.py||file:XMLParser.py||file[gitPlayero]:settings/*||file:.gitattributes||file:.gitignore||file:force.sync||file:inicializar.bat||file:inicializar.sh||file:OpenOrange-Console.bat||file:OpenOrange.exe||file:OpenOrange.exe.log||file:OpenOrange.sh||file:pri.bat||file:Printer.bat||file:priRemote.bat||file:seteoLibrary.sh||file:sforcelogin.txt||file:test.py||file:version.txt||file:wc_info.tmp||file:*.patch||file:extra/__init__.py||file:startTest.sh||file:startTestDirect.sh||file:*.sql" />
+    <scope name="Copetrol" pattern="file[gitPlayero]:base//*||file[gitPlayero]:core//*||file[gitPlayero]:languages//*||file[gitPlayero]:python//*||file[gitPlayero]:standard//*||file[gitPlayero]:extra/Flota//*||file[gitPlayero]:extra/GasStation//*||file[gitPlayero]:extra/Develop//*||file[gitPlayero]:extra/PayRollPy//*||file[gitPlayero]:extra/StdPy//*||file:__init__.py||file:ButtonArea.py||file:ClientServerTools.py||file:ComPort.py||file:CThread.py||file:Embedded_ButtonObj.py||file:Embedded_Document.py||file:Embedded_Field.py||file:Embedded_ListView.py||file:Embedded_ListViewItem.py||file:Embedded_OpenOrange.py||file:Embedded_Record.py||file:Embedded_Report.py||file:Embedded_Routine.py||file:Embedded_ScrollArea.py||file:Embedded_Thread.py||file:Embedded_TreeWidget.py||file:Embedded_Window.py||file:Field.py||file:FieldDef.py||file:globalfunctions.py||file:IndexDef.py||file:ProtocolInterface.py||file:Query.py||file:RecordDef.py||file:SettingsFile.py||file:XMLParser.py||file[gitPlayero]:settings/*||file:.gitattributes||file:.gitignore||file:force.sync||file:inicializar.bat||file:inicializar.sh||file:OpenOrange-Console.bat||file:OpenOrange.exe||file:OpenOrange.exe.log||file:OpenOrange.sh||file:pri.bat||file:Printer.bat||file:priRemote.bat||file:seteoLibrary.sh||file:sforcelogin.txt||file:test.py||file:version.txt||file:wc_info.tmp||file:*.patch||file:extra/__init__.py||file:startTest.sh||file:startTestDirect.sh||file:*.sql||file[gitPlayero]:extra/Copetrol//*" />
+    <scope name="ShippingAgency" pattern="file[gitPlayero]:base//*||file[gitPlayero]:core//*||file[gitPlayero]:languages//*||file[gitPlayero]:python//*||file[gitPlayero]:standard//*||file[gitPlayero]:extra/Flota//*||file[gitPlayero]:extra/GasStation//*||file[gitPlayero]:extra/Develop//*||file[gitPlayero]:extra/PayRollPy//*||file[gitPlayero]:extra/StdPy//*||file:__init__.py||file:ButtonArea.py||file:ClientServerTools.py||file:ComPort.py||file:CThread.py||file:Embedded_ButtonObj.py||file:Embedded_Document.py||file:Embedded_Field.py||file:Embedded_ListView.py||file:Embedded_ListViewItem.py||file:Embedded_OpenOrange.py||file:Embedded_Record.py||file:Embedded_Report.py||file:Embedded_Routine.py||file:Embedded_ScrollArea.py||file:Embedded_Thread.py||file:Embedded_TreeWidget.py||file:Embedded_Window.py||file:Field.py||file:FieldDef.py||file:globalfunctions.py||file:IndexDef.py||file:ProtocolInterface.py||file:Query.py||file:RecordDef.py||file:SettingsFile.py||file:XMLParser.py||file[gitPlayero]:settings/*||file:.gitattributes||file:.gitignore||file:force.sync||file:inicializar.bat||file:inicializar.sh||file:OpenOrange-Console.bat||file:OpenOrange.exe||file:OpenOrange.exe.log||file:OpenOrange.sh||file:pri.bat||file:Printer.bat||file:priRemote.bat||file:seteoLibrary.sh||file:sforcelogin.txt||file:test.py||file:version.txt||file:wc_info.tmp||file:*.patch||file:extra/__init__.py||file:startTest.sh||file:startTestDirect.sh||file:*.sql||file[gitPlayero]:extra/ShippingAgency//*||file[gitPlayero]:extra/Repair//*" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="32" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Playero Inspections">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnresolvedReferencesInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnresolvedReferencesInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Project Default copy">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Basic" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitPlayero" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitPlayero" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Basic">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="gitPlayero">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="gitPlayero">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="extra">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="gitPlayero">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="extra">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="PayRollPy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../other/pycharm-settings" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="162" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="162" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="162" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="837" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="162" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="161" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="163" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="837" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="settings.editor.splitter.proportion" value="0.203259" />
+    <property name="prop_add_unversioned_files" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="gitPlayero" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="gitPlayero" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Develop\desarrollo\python\ancho\workspace\gitPlayero\extra\StdPy\interface" />
+      <recent name="E:\Develop\desarrollo\python\ancho\workspace\gitPlayero\extra\StdPy\tests" />
+      <recent name="E:\Develop\desarrollo\python\ancho\workspace\gitPlayero\extra\PayRollPy\reports" />
+      <recent name="E:\Develop\desarrollo\python\ancho\workspace\gitPlayero\extra\PayRollPy\interface" />
+      <recent name="E:\Develop\desarrollo\python\ancho\workspace\gitPlayero\extra\Flota\reports" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Develop\desarrollo\python\ancho\workspace\gitPlayero\extra\StdPy" />
+      <recent name="E:\Develop\desarrollo\python\ancho\workspace\gitPlayero\extra\StdPy\tools" />
+      <recent name="E:\Develop\desarrollo\python\ancho\workspace\gitPlayero\extra\Flota\windows" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SyncTables">
+    <configuration default="false" name="Unittests in PlayeroTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/PlayeroTestCase.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SyncTables" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/extra/StdPy/routines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extra/StdPy/routines/SyncTables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="E:\cygwin\bin\bash.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <module name="" />
+      <option name="PORT" value="0" />
+      <option name="HOST" value="null" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.AppEngineServer" factoryName="App Engine server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="127.0.0.1" />
+      <option name="browserUrl" value="" />
+      <option name="additionalOptions" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="gitPlayero" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gitPlayero" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="open winpdb at 157" type="BashConfigurationType" factoryName="Bash" activateToolWindowBeforeRun="false" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="/c" />
+      <option name="INTERPRETER_PATH" value="c:\Windows\System32\cmd.exe " />
+      <option name="WORKING_DIRECTORY" value="c:\Python26\Scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="c:\Python26\Scripts\winpdb.bat" />
+      <option name="PARAMETERS" value="--host=192.168.1.157 --pwd=123456" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Bash.open winpdb at 157" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in PlayeroTestCase" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SyncTables" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.SyncTables" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in PlayeroTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="DEPLOYMENT_SERVER" />
+    <option name="myConnectionId" value="61fac9c1-199f-48d4-a8ff-f963a3f8d6d7" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\carlos.gomez\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82f73f1d-ce0c-4eb0-8547-a1723d9873af" name="Default" comment="" />
+      <created>1464792432385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1464792432385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_tests_in_Playero - 2016.06.15 at 11h 51m 45s.xml">
+      <configuration name="All tests in Playero" configurationId="tests" />
+    </history-entry>
+    <history-entry file="All_tests_in_Playero - 2016.06.15 at 11h 52m 35s.xml">
+      <configuration name="All tests in Playero" configurationId="tests" />
+    </history-entry>
+    <history-entry file="All_tests_in_Playero - 2016.06.15 at 11h 52m 57s.xml">
+      <configuration name="All tests in Playero" configurationId="tests" />
+    </history-entry>
+    <history-entry file="All_tests_in_Playero - 2016.06.15 at 11h 53m 12s.xml">
+      <configuration name="All tests in Playero" configurationId="tests" />
+    </history-entry>
+    <history-entry file="All_tests_in_Playero - 2016.06.15 at 11h 53m 57s.xml">
+      <configuration name="All tests in Playero" configurationId="tests" />
+    </history-entry>
+    <history-entry file="All_tests_in_Playero - 2016.06.15 at 11h 54m 35s.xml">
+      <configuration name="All tests in Playero" configurationId="tests" />
+    </history-entry>
+    <history-entry file="All_tests_in_Playero - 2016.06.15 at 15h 06m 12s.xml">
+      <configuration name="All tests in Playero" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_PlayeroTestCase - 2016.09.02 at 15h 59m 25s.xml">
+      <configuration name="Unittests in PlayeroTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_PlayeroTestCase_(1) - 2016.09.02 at 16h 00m 07s.xml">
+      <configuration name="Unittests in PlayeroTestCase (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_base - 2016.06.15 at 11h 46m 31s.xml">
+      <configuration name="Unittests in test_base" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="GfmBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2512235" sideWeight="0.4614221" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25204584" sideWeight="0.4969743" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5564648" sideWeight="0.49394855" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53846157" sideWeight="0.49092284" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5564648" sideWeight="0.5136157" order="2" side_tool="true" content_ui="tabs" x="1377" y="-72" width="1548" height="676" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5564648" sideWeight="0.48638427" order="13" side_tool="false" content_ui="tabs" x="1377" y="-181" width="1270" height="819" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26928896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41243863" sideWeight="0.49394855" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28744328" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7846656" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="132" width="1182" height="544" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60229135" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4811784" sideWeight="0.4969743" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39443535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3289689" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="GfmBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2512235" sideWeight="0.4614221" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28744328" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41243863" sideWeight="0.49394855" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7846656" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="132" width="1182" height="544" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60229135" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25204584" sideWeight="0.4969743" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5564648" sideWeight="0.49394855" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53846157" sideWeight="0.49092284" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5564648" sideWeight="0.5136157" order="2" side_tool="true" content_ui="tabs" x="1377" y="-72" width="1548" height="676" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5564648" sideWeight="0.48638427" order="13" side_tool="false" content_ui="tabs" x="1377" y="-181" width="1270" height="819" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4811784" sideWeight="0.4969743" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26928896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39443535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3289689" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/extra/TouchMode" />
+      <path value="$PROJECT_DIR$/extra/Fix" />
+      <path value="$PROJECT_DIR$/_devTools" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/tools/RangeFilters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/tools/SQLQueryTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/PayRollPy/records/SalaryPaymentFormFormat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/PayRollPy/interface/Payroll.module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="52" column="53" lean-forward="false" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/PayRollPy/reports/SalaryPaymentFormReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="131" column="23" lean-forward="true" selection-start-line="131" selection-start-column="23" selection-end-line="131" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/interface/TransactionLog.record.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/tests/test_routine_logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/tests/input_xmls/TransactionLogAudit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="76" lean-forward="false" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/tests/test_invalid_reason.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="157" column="69" lean-forward="true" selection-start-line="157" selection-start-column="69" selection-end-line="157" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/interface/Integrity.module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/interface/System.module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="24" column="76" lean-forward="true" selection-start-line="24" selection-start-column="76" selection-end-line="24" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/interface/TransactionLogAudit.reportwindow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/reports/TransactionLogAudit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/python-skeletons/win32gui.py" />
+    <entry file="file://$PROJECT_DIR$/python/python24/Lib/site-packages/windows/win32/lib/commctrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/reports/DBStructureStatus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="133" column="24" lean-forward="false" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/interface/SyncTables.routinewindow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/database/mysql/MySQL_DBSynchronizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/python24/Lib/site-packages/windows/win32/lib/pywintypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-891257481/win32gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/database/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/database/DBSynchronizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="51" column="70" lean-forward="true" selection-start-line="51" selection-start-column="70" selection-end-line="51" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/routines/SyncTablesNoGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="62" lean-forward="true" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/tools/DBStructureTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="233" column="68" lean-forward="false" selection-start-line="233" selection-start-column="68" selection-end-line="233" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/routines/SyncTables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="340" column="38" lean-forward="true" selection-start-line="340" selection-start-column="38" selection-end-line="340" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/ReportTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8609">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/tools/RoutineTools.py" />
+    <entry file="file://$PROJECT_DIR$/core/Routine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../other/pylint-playero-plugin/corepy/embedded/Embedded_Routine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="172" column="12" lean-forward="true" selection-start-line="172" selection-start-column="12" selection-end-line="172" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/Vaccination/reports/VaccinationPeriodList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/Vaccination/routines/GenActsCalendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="60" lean-forward="true" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standard/windows/UserWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/windows/UserWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/windows/WindowA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="325" column="0" lean-forward="true" selection-start-line="325" selection-start-column="0" selection-end-line="325" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-891257481/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="287" column="4" lean-forward="false" selection-start-line="287" selection-start-column="4" selection-end-line="287" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/windows/Window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/records/User.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/routines/SearchAllRoutine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/searchIndexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="75" column="42" lean-forward="false" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/tools/GeneralPyTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="574" column="0" lean-forward="true" selection-start-line="574" selection-start-column="0" selection-end-line="574" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/searchTool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="267" column="33" lean-forward="true" selection-start-line="267" selection-start-column="33" selection-end-line="267" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/PayRollPy/interface/SalaryPaymentsList.reportwindow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="39" column="54" lean-forward="true" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/PayRollPy/reports/SalaryPaymentsList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <marker date="1480943578897" expanded="true" signature="25995:26084" ph="SELECT SerNr... CashOut" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f1950384-5ad7-41a7-8944-b423633b699a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/StdPy/reports/RoutineLogAudit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-807">
+          <caret line="17" column="57" lean-forward="false" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <marker date="1440012466651" expanded="true" signature="1415:1439" ph="SELECT * FRO... RoutineLog" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Documentos/localstuff/voucher.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/LocalSettings.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startTestDirect.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra/PayRollPy/routines/GenSalaryPayment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="460" column="24" lean-forward="true" selection-start-line="460" selection-start-column="24" selection-end-line="460" selection-end-column="24" />
+          <folding>
+            <element signature="e#22#46#0" expanded="true" />
+            <element signature="e#8213#8901#0" expanded="false" />
+            <marker date="1480951879380" expanded="true" signature="46838:46869" ph="SELECT SerNr... SalaryPayment" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Basic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17687862" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="Reduced Tree" />
+            <scope name="Vaccination" />
+            <scope name="Petrobras/LUA" />
+            <scope name="Basic" />
+            <scope name="Copetrol" />
+            <scope name="ShippingAgency" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
