@@ -2,6 +2,8 @@
   <profile version="1.0">
     <option name="myName" value="Playero Inspections" />
     <inspection_tool class="PyAttributeOutsideInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyExceptionInheritInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyListCreationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
     <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="ignoredErrors">
         <list>
@@ -27,6 +29,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="from OpenOrange import *" />
+          <option value="pywintypes.error" />
         </list>
       </option>
     </inspection_tool>
