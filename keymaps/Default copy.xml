@@ -11,6 +11,10 @@
   </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt x" />
+  </action>
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
   </action>
   <action id="RemoteTool_External Tools_remote startServer ALL tests">
     <keyboard-shortcut first-keystroke="shift ctrl alt 1" />
