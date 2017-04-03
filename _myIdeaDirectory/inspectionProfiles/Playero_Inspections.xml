@@ -31,6 +31,8 @@
         <list>
           <option value="from OpenOrange import *" />
           <option value="pywintypes.error" />
+          <option value="pythoncom.CoInitialize" />
+          <option value="pythoncom.CoUninitialize" />
         </list>
       </option>
     </inspection_tool>
