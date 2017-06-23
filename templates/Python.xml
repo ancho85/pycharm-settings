@@ -4,7 +4,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="wdebug" value="log(&quot;DEBUGGING, WAITTING ATTACHMENT&quot;)&#10;import rpdb2&#10;rpdb2.start_embedded_debugger(&quot;123456&quot;, fAllowRemote=True)" description="debug with winpdb" toReformat="false" toShortenFQNames="true">
+  <template name="wdebug" value="logstring(&quot;DEBUGGING, WAITTING ATTACHMENT&quot;)&#10;import rpdb2&#10;rpdb2.start_embedded_debugger(&quot;123456&quot;, fAllowRemote=True)" description="debug with winpdb" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
