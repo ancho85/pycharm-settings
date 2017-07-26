@@ -1,10 +1,10 @@
 <application>
-  <component name="DatabaseSettings">
+  <component name="DatabaseSettings" version="2">
     <option name="reuse-result-tab" value="false" />
     <text-mode in-scripts="true" in-literals="true">
       <parameter-patterns>
         <parameter-pattern value="[isvdt]\|([^\|]*?)\|" scope="MySQL" />
-        <parameter-pattern value="?\d+" />
+        <parameter-pattern value="?\d+" in-scripts="false" in-literals="false" />
         <parameter-pattern value=":(\w+)" scope="*,-PostgreSQL" predefined="true" />
         <parameter-pattern value="%\w+" scope="JAVA" predefined="true" />
         <parameter-pattern value="$\{[^$\{\}]*\}" />
@@ -20,7 +20,7 @@
       </parameter-patterns>
     </text-mode>
     <csv-formats>
-      <csv-format name="Tab Separated Values (TSV)">
+      <csv-format name="Tab Separated Values (TSV)" id="e02b1182-6a29-44f2-96ca-dc5e692fa7a1">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
             <quotation>
@@ -30,7 +30,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Comma Separated Values (CSV)">
+      <csv-format name="Comma Separated Values (CSV)" id="0c2f6c85-68f8-47dd-85a9-8e9554bedbe2">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
