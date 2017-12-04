@@ -1,9 +1,10 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2016-12-14T09:02:01</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-14T15:46:24</property>
+    <property name="modified">2017-12-04T10:02:26</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -18,6 +19,11 @@
       <value>
         <option name="FOREGROUND" value="9e0c19" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="7ca664" />
       </value>
     </option>
   </attributes>
