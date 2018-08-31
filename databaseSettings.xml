@@ -8,6 +8,7 @@
     </exec-options>
     <text-mode>
       <parameter-patterns>
+        <parameter-pattern value="\{.*\}|\[.*\]" scope="MySQL" />
         <parameter-pattern value="[isvdt]\|([^\|]*?)\|" scope="MySQL" />
         <parameter-pattern value="?\d+" in-literals="false" />
         <parameter-pattern value=":(\w+)" scope="*,-PostgreSQL" />
@@ -22,7 +23,6 @@
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="$a.b.c$?" />
         <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="#a.b.c#?" />
         <parameter-pattern value="%\((\w+)\)s" in-literals="false" scope="Python" predefined="%(name)s" />
-        <parameter-pattern value="\{.*\}|\[.*\]" scope="MySQL" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
