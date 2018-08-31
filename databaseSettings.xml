@@ -1,22 +1,28 @@
 <application>
-  <component name="DatabaseSettings" version="2">
+  <component name="DatabaseSettings" version="3">
     <option name="reuse-result-tab" value="false" />
-    <text-mode in-scripts="true" in-literals="true">
+    <exec-options>
+      <exec-option new-tab="true" />
+      <exec-option />
+      <exec-option />
+    </exec-options>
+    <text-mode>
       <parameter-patterns>
         <parameter-pattern value="[isvdt]\|([^\|]*?)\|" scope="MySQL" />
-        <parameter-pattern value="?\d+" in-scripts="false" in-literals="false" />
-        <parameter-pattern value=":(\w+)" scope="*,-PostgreSQL" predefined="true" />
-        <parameter-pattern value="%\w+" scope="JAVA" predefined="true" />
+        <parameter-pattern value="?\d+" in-literals="false" />
+        <parameter-pattern value=":(\w+)" scope="*,-PostgreSQL" />
+        <parameter-pattern value="%\w+" scope="JAVA,Python,PHP" predefined="%name" />
         <parameter-pattern value="$\{[^$\{\}]*\}" />
         <parameter-pattern value="$\w+$" />
-        <parameter-pattern value="#(\w+)#" scope="XML" predefined="true" />
-        <parameter-pattern value="\?(\d+)" in-scripts="false" in-literals="false" predefined="true" />
-        <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="false" in-literals="false" predefined="true" />
-        <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="false" in-literals="false" predefined="true" />
-        <parameter-pattern value="\$(\w+)\$" in-scripts="false" in-literals="false" scope="*,-PostgreSQL" predefined="true" />
-        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-scripts="false" in-literals="false" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
-        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-scripts="false" in-literals="false" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
-        <parameter-pattern value="%\((\w+)\)s" in-scripts="false" in-literals="false" scope="Python" predefined="true" />
+        <parameter-pattern value="#(\w+)#" scope="XML" predefined="#name#" />
+        <parameter-pattern value="\?(\d+)" in-literals="false" />
+        <parameter-pattern value="\$\{([^\{\}]*)\}" in-literals="false" predefined="${name}" />
+        <parameter-pattern value="\$\(([^\)]+)\)" in-literals="false" predefined="$(name)" />
+        <parameter-pattern value="\$(\w+)\$" in-literals="false" scope="*,-PostgreSQL" />
+        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="$a.b.c$?" />
+        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="#a.b.c#?" />
+        <parameter-pattern value="%\((\w+)\)s" in-literals="false" scope="Python" predefined="%(name)s" />
+        <parameter-pattern value="\{.*\}|\[.*\]" scope="MySQL" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
