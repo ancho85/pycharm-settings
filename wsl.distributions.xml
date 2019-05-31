@@ -50,6 +50,30 @@
           <executable-path>wlinux.exe</executable-path>
           <presentable-name>WLinux</presentable-name>
         </descriptor>
+        <descriptor>
+          <id>SLES15</id>
+          <microsoft-id>SLES-15</microsoft-id>
+          <executable-path>sles-15.exe</executable-path>
+          <presentable-name>SUSE Linux Enterprise Server 15</presentable-name>
+        </descriptor>
+        <descriptor>
+          <id>OPENSUSE15</id>
+          <microsoft-id>openSUSE-Leap-15</microsoft-id>
+          <executable-path>openSUSE-Leap-15.exe</executable-path>
+          <presentable-name>openSUSE Leap 15</presentable-name>
+        </descriptor>
+        <descriptor>
+          <id>PENGWIN</id>
+          <microsoft-id>Pengwin</microsoft-id>
+          <executable-path>pengwin.exe</executable-path>
+          <presentable-name>Pengwin</presentable-name>
+        </descriptor>
+        <descriptor>
+          <id>PENGWIN_ENTERPRISE</id>
+          <microsoft-id>WLE</microsoft-id>
+          <executable-path>wle.exe</executable-path>
+          <presentable-name>Pengwin Enterprise</presentable-name>
+        </descriptor>
       </set>
     </descriptors>
   </component>
