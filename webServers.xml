@@ -9,14 +9,6 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="c59e2c92-5d41-4888-8d23-487d3ecf0fe7" name="157remote" url="http://190.128.197.53">
-        <fileTransfer host="190.128.197.53" port="2222" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
