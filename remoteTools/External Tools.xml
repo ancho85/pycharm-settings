@@ -1,26 +1,26 @@
 <toolSet name="External Tools">
-  <tool name="remote startServer ALL tests" description="remote startServer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="61fac9c1-199f-48d4-a8ff-f963a3f8d6d7">
+  <tool name="remote startServer ALL tests" description="remote startServer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9">
     <exec>
       <option name="COMMAND" value="/opt/playero/startTest.sh" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="/opt/playero" />
     </exec>
   </tool>
-  <tool name="remote startServerDirect $FileName$ test" description="remote startServer direct" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="61fac9c1-199f-48d4-a8ff-f963a3f8d6d7">
+  <tool name="remote startServerDirect $FileName$ test" description="remote startServer direct" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9">
     <exec>
       <option name="COMMAND" value="/opt/playero/startTestDirect.sh" />
       <option name="PARAMETERS" value="$/FileDirRelativeToProjectRoot$ $FileName$" />
       <option name="WORKING_DIRECTORY" value="/opt/playero" />
     </exec>
   </tool>
-  <tool name="remote startServerDirect single test" description="remote startServer direct single test from clipboard" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="61fac9c1-199f-48d4-a8ff-f963a3f8d6d7">
+  <tool name="remote startServerDirect single test" description="remote startServer direct single test from clipboard" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9">
     <exec>
       <option name="COMMAND" value="/opt/playero/startTestDirect.sh" />
       <option name="PARAMETERS" value="$/FileDirRelativeToProjectRoot$ $ClipboardContent$" />
       <option name="WORKING_DIRECTORY" value="/opt/playero" />
     </exec>
   </tool>
-  <tool name="remote startServerDirect $/FileDirRelativeToProjectRoot$ directory test" description="remote startServer direct" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="61fac9c1-199f-48d4-a8ff-f963a3f8d6d7">
+  <tool name="remote startServerDirect $/FileDirRelativeToProjectRoot$ directory test" description="remote startServer direct" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9">
     <exec>
       <option name="COMMAND" value="/opt/playero/startTestDirect.sh" />
       <option name="PARAMETERS" value="$/FileDirRelativeToProjectRoot$" />
