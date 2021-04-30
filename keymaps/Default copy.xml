@@ -1,10 +1,14 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="InsertLiveTemplate" />
   <action id="Macro.run test under cursor">
     <keyboard-shortcut first-keystroke="shift ctrl alt period" />
