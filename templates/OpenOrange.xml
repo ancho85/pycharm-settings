@@ -5,4 +5,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="afters" value="def afterInsert(self):&#10;    res = Parent$class$.afterInsert(self)&#10;    if not res: return res&#10;    if self.confirmed() or self.confirming():&#10;        pass&#10;    return True&#10;&#10;def afterUpdate(self):&#10;    res = Parent$class$.afterUpdate(self)&#10;    if not res: return res&#10;    if self.confirming() or self.unconfirming():&#10;        pass&#10;    return True&#10;&#10;def afterCommit(self, oldfieldDic):&#10;    res = Parent$class$.afterCommit(self, oldfieldDic)&#10;    if not res: return res&#10;    return True" description="actions occurring after saving" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="pyClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
