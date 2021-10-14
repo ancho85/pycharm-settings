@@ -4,13 +4,13 @@
     <property name="created">2016-12-14T09:02:01</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2020-01-17T15:39:13</property>
+    <property name="modified">2021-10-14T17:17:48</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
