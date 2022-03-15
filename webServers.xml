@@ -2,11 +2,11 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9" name="157" url="http://192.168.1.157">
-        <fileTransfer host="192.168.1.157" port="2222" accessType="SFTP">
+        <fileTransfer host="192.168.1.157" port="22" privateKey="C:\Users\carlos.gomez\.ssh\id_rsa" rootFolder="/home/hbs" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="2222" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
