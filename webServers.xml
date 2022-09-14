@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b829ddd4-932a-4116-9681-9d7136bec436" name="old157" url="http://192.168.1.102">
-        <fileTransfer host="192.168.1.102" port="2222" rootFolder="/root" accessType="SFTP">
+        <fileTransfer host="192.168.1.102" port="2222" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
