@@ -1,30 +1,30 @@
 <toolSet name="External Tools">
-  <tool name="remote startServer ALL tests" description="remote startServer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9">
+  <tool name="remote startServer ALL tests" description="remote startServer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="b829ddd4-932a-4116-9681-9d7136bec436">
     <exec>
-      <option name="COMMAND" value="/home\hbs/gitPlayero/startTest.sh" />
+      <option name="COMMAND" value="/opt/gitPlayero/startTest.sh" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="/home/hbs/gitPlayero" />
+      <option name="WORKING_DIRECTORY" value="/opt/gitPlayero" />
     </exec>
   </tool>
-  <tool name="remote startServerDirect $FileName$ test" description="remote startServer direct" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9">
+  <tool name="remote startServerDirect $FileName$ test" description="remote startServer direct" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="b829ddd4-932a-4116-9681-9d7136bec436">
     <exec>
-      <option name="COMMAND" value="/home/hbs/gitPlayero/startTestDirect.sh" />
+      <option name="COMMAND" value="/opt/gitPlayero/startTestDirect.sh" />
       <option name="PARAMETERS" value="$/FileDirRelativeToProjectRoot$ $FileName$" />
-      <option name="WORKING_DIRECTORY" value="/home/hbs/gitPlayero" />
+      <option name="WORKING_DIRECTORY" value="/opt/gitPlayero" />
     </exec>
   </tool>
-  <tool name="remote startServerDirect single test" description="remote startServer direct single test from clipboard" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9">
+  <tool name="remote startServerDirect single test" description="remote startServer direct single test from clipboard" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="b829ddd4-932a-4116-9681-9d7136bec436">
     <exec>
-      <option name="COMMAND" value="/home/hbs/gitPlayero/startTestDirect.sh" />
+      <option name="COMMAND" value="/opt/gitPlayero/startTestDirect.sh" />
       <option name="PARAMETERS" value="$/FileDirRelativeToProjectRoot$ $ClipboardContent$" />
-      <option name="WORKING_DIRECTORY" value="/home/hbs/gitPlayero" />
+      <option name="WORKING_DIRECTORY" value="/opt/gitPlayero" />
     </exec>
   </tool>
-  <tool name="remote startServerDirect $/FileDirRelativeToProjectRoot$ directory test" description="remote startServer direct" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9">
+  <tool name="remote startServerDirect $/FileDirRelativeToProjectRoot$ directory test" description="remote startServer direct" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="b829ddd4-932a-4116-9681-9d7136bec436">
     <exec>
-      <option name="COMMAND" value="/home/hbs/gitPlayero/startTestDirect.sh" />
+      <option name="COMMAND" value="/opt/gitPlayero/startTestDirect.sh" />
       <option name="PARAMETERS" value="$/FileDirRelativeToProjectRoot$" />
-      <option name="WORKING_DIRECTORY" value="/home/hbs/gitPlayero" />
+      <option name="WORKING_DIRECTORY" value="/opt/gitPlayero" />
     </exec>
   </tool>
 </toolSet>
