@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="81208a07-8b43-442e-bdd2-066cc074079e" name="brasiu" url="http://aureus.procc.fiocruz.br">
+        <fileTransfer host="aureus.procc.fiocruz.br" port="799" rootFolder="/home/felicita" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="799" />
+        </fileTransfer>
+      </webServer>
       <webServer id="fe88c4ab-5f96-4f05-b1c5-a976b44e94d9" name="157" url="http://192.168.1.157">
         <fileTransfer host="192.168.1.157" port="22" privateKey="C:\Users\carlos.gomez\.ssh\id_rsa" rootFolder="/home/hbs" accessType="SFTP" keyPair="true">
           <advancedOptions>
@@ -15,14 +23,6 @@
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="74505fa4-bd02-4ca9-a246-6da34adae1b0" name="Copy of project-level server 'brasiu'" url="http://aureus.procc.fiocruz.br">
-        <fileTransfer host="aureus.procc.fiocruz.br" port="799" rootFolder="/home/felicita" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="799" />
         </fileTransfer>
       </webServer>
     </option>
