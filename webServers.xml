@@ -17,6 +17,14 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="5d261b29-1874-4118-8d01-5783f394f248" name="brasiu" url="http://aureus.procc.fiocruz.br">
+        <fileTransfer host="aureus.procc.fiocruz.br" port="799" rootFolder="/home/felicita" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="799" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
