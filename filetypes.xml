@@ -5,6 +5,7 @@
       <mapping pattern="JSON-FLOTA" type="PLAIN_TEXT" />
       <mapping ext="sync" type="PLAIN_TEXT" />
       <mapping ext="m3u" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
