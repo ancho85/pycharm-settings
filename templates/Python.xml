@@ -14,7 +14,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="queryp" value="from GeneralPyTools import queryParser&#10;queryParser(query.sql, writeToFile=True, filename=&quot;query%s.sql&quot; % &quot;&quot;)" description="query parser" toReformat="false" toShortenFQNames="true">
+  <template name="queryp" value="Query.queryParser(query.sql, writeToFile=True, filename=&quot;query%s.sql&quot; % &quot;&quot;)" description="query parser" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
