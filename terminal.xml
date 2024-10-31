@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="wsl.exe" />
+    <option name="myShellPath" value="E:\cygwin64\CygwinPycharm.bat" />
   </component>
 </application>
